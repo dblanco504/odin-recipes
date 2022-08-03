@@ -1,0 +1,23 @@
+
+body{
+    background-color: rgb(230, 230, 173);
+    background-repeat: repeat;
+        color: #000000;
+        font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{text-align: center;}
+
+div{  margin: 0 auto;}
+
+.text-box{
+    background-color:#ffffff ;
+    border: 2px solid black;
+    font-size: 14px;
+    padding: 10px;
+    justify-content: center;
+  width: min(70%, 500px);}
+
+img{width: 500px;
+    border-radius: 50%;
+    object-fit: contain;}
